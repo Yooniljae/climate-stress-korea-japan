@@ -82,7 +82,7 @@ All outputs are saved in:
 _Figure 1. Observed Holocene temperatures (black dots) from MD01-2421 and KR02-06 cores with second-degree fit (grey line; R² = 0.567)._
 ![Figure 1](output/figures/fig1_temperature_regression_korea.png)
 
-_Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula_
+_Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula:SPD_Z (black), Δ residual Z (grey), short-term shocks (dots, |ΔZ| ≥ 1.5), long-term stress (band, Z ≥ ±1.0 for ≥2 bins). SPD_Z: 20-year bins; climate: 60-year. Temporal misalignment possible._
 ![Figure 2](output/figures/fig2_spd_z_climate_overlay_korea.png)
 
 For the complete set of figures (Figures 1–4, Supplementary Figures S1–S12),  
