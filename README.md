@@ -80,10 +80,10 @@ All outputs are saved in:
 
 ### Example Output
 Figure 1. Observed Holocene temperatures (black dots) from MD01-2421 and KR02-06 cores with second-degree fit (grey line; R² = 0.567).
-<output/figures/figure1.png>
+<[output/figures/figure1.png](https://github.com/Yooniljae/climate-stress-korea-japan/blob/main/output/figures/fig1_temperature_regression_korea.png?raw=true)>
 
 Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula
-<output/figures/figure2.png>
+<[output/figures/figure2.png](https://github.com/Yooniljae/climate-stress-korea-japan/blob/main/output/figures/fig1_temperature_regression_korea.png?raw=true)>
 
 ---
 
