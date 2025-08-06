@@ -16,7 +16,7 @@ For any questions or issues regarding this package, please contact:
 📧 iljae.yoon.research@gmail.com
 
 
-## Folder Structure
+### Folder Structure
 
 ```
 Quantitative_Analysis_of_Climate_Stress_and_Settlement_Responses/
@@ -84,6 +84,9 @@ _Figure 1. Observed Holocene temperatures (black dots) from MD01-2421 and KR02-0
 
 _Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula_
 ![Figure 2](output/figures/fig2_spd_z_climate_overlay_korea.png)
+
+For the complete set of figures (Figures 1–4, Supplementary Figures S1–S12),  
+please refer to the [`output/figures/`](output/figures/) directory.
 
 ---
 
