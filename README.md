@@ -23,7 +23,6 @@ Quantitative_Analysis_of_Climate_Stress_and_Settlement_Responses/
 ├── analysis_cs.ipynb           # Main executable notebook
 ├── analysis_cs.py              # Equivalent script version (optional)
 ├── README_notebook.ipynb       # Narrative version of this README
-├── README.txt                  # Plain-text version
 ├── README.md                   # Markdown version (this file)
 ├── requirements.txt            # Python 3.10 environment specification
 │
