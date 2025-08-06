@@ -79,10 +79,8 @@ All outputs are saved in:
 - `output/tables/`
 
 ### Example Output
-
-<img width="3000" height="1500" alt="fig1_temperature_regression_korea" src="https://github.com/user-attachments/assets/279769db-5902-462a-a6b8-f67789d09dbc" />
 Figure 1. Observed Holocene temperatures (black dots) from MD01-2421 and KR02-06 cores with second-degree fit (grey line; R² = 0.567).
-
+<img width="3000" height="1500" alt="fig1_temperature_regression_korea" src="https://github.com/user-attachments/assets/279769db-5902-462a-a6b8-f67789d09dbc" />
 
 <img width="3000" height="1500" alt="fig2_spd_z_climate_overlay_korea" src="https://github.com/user-attachments/assets/b09be203-0f94-4426-8d41-7e68ebda4ab9" />
 Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula
