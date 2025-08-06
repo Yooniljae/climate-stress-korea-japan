@@ -82,7 +82,7 @@ All outputs are saved in:
 _Figure 1. Observed Holocene temperatures (black dots) from MD01-2421 and KR02-06 cores with second-degree fit (grey line; R² = 0.567)._
 ![Figure 1](output/figures/fig1_temperature_regression_korea.png)
 
-Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula
+_Figure 2. Climate Stress and SPD Overlay: the Korean Peninsula_
 ![Figure 2](output/figures/fig2_spd_z_climate_overlay_korea.png)
 
 ---
