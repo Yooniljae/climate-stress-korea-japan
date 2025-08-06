@@ -1,8 +1,9 @@
 ### Reproducibility Package for:
 Quantitative Analysis of Climate Stress and Settlement Responses in the Korean Peninsula and Southern Japan (6000–2100 BP)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16732323.svg)](https://doi.org/10.5281/zenodo.16732323)
+
 Author: Iljae Yoon  
-Zenodo DOI: https://doi.org/10.5281/zenodo.16732323
 Submission: The Holocene (2025, under review)
 
 This repository contains all data, code, and outputs necessary to reproduce the analyses and figures presented in the manuscript.
